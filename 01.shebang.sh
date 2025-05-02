@@ -5,4 +5,4 @@ echo "This is a simple bash script"
 sleep 2
 echo "using bash we will be automating manual effort."
 sleep 3     
-echo "script name: $# completed"
+echo "script name: $0 is completed"
